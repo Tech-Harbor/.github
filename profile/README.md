@@ -1,12 +1,6 @@
-## Hi there 👋
+### Oranger Project
 
-<!--
+Добро пожаловать в Oranger - наш проект, що об'єднує 3 бекенда, 3 фронтенда, Project Manager і дизайнер.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Oranger - це інноваційний проект, який об'єднує зусилля наших талановитих розробників для створення унікального продукту. 
+У нас є різні бекенд-імплементації, фронтенд-реалізації, а також ми приділяємо особливу увагу дизайну та цим всім кирує PM яка тримає увесь процес під контролем щоб всі таски виконувалися в часно!
