@@ -1,4 +1,4 @@
-### Oranger Project
+### Oranger
 
 Вітаємо на "Oranger" - наш проект, що об'єднує 3 backend, 3 frontend розробників, Project Manager і Designer.
 
