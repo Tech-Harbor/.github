@@ -5,4 +5,6 @@ Oranger - іноваційний проект, що об'єднує зусилл
 
 - [Посилання на документацію сервесної частини](https://api.oranger.store/swagger-ui/index.html#/)
 
+- [Посилання на документацію сервесної частини GraphQL](https://api.oranger.store/graphiql)
+
 - [Посилання на сайт](https://oranger.store/)
