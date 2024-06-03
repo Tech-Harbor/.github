@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/Tech-Harbor)](https://github.com/Tech-Harbor)
+
 Вітаємо на **Oranger** - наш проект, що об'єднує 2 backend, 4 frontend розробників, Project Manager і Designer.
 
 Oranger - іноваційний проект, що об'єднує зусилля наших талановитих розробників для створення унікального продукту. 
